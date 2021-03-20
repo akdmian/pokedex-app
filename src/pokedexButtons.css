@@ -1,0 +1,15 @@
+.menuButtons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+
+button {
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border-style: none;
+}
+
+
